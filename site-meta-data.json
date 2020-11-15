@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "MJI's Dev Showcase Site",
+  "siteUrl": "https://mjidevhub.netlify.com/",
+  "description": "All About MJI and his showcase of mini and simple dev projects",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! I'm MJ",
+    "description": "A Software Engineer with 4 years of working experience. An Eager learner, hard worker and a team\nplayer who is well-versed in multiple programming language and proficient in multimedia tools. Have\nhands-on experience on developing web and mobile applications using modern javascript technologies and\nother web technologies.\n"
   }
 }
