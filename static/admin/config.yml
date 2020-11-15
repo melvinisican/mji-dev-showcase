@@ -42,7 +42,7 @@ collections:
                 default: ''
                 required: false
   - name: 'pages'
-    label: 'Page'
+    label: 'Pages'
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: true
